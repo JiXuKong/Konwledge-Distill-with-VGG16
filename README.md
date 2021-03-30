@@ -9,5 +9,4 @@ Distill VGG16 into a smaller network, written with tensorflow-1.14
   Method  |  accuracy   
 :-----  |-------: 
 VGG16  |  ~0.91  
-:-----  |-------:
 Distill model  |  ~0.90  
